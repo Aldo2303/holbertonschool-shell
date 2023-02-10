@@ -1,3 +1,1 @@
-Write a script that changes the group owner to school for the file hello
-
-The file hello will be in the working directory
+Changes the owner to vicent and the group owner to staff for all file
