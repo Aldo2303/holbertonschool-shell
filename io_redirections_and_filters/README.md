@@ -1,2 +1,1 @@
-
-Changes the owner to vicent and the group owner to staff for all file
+Write a script that displays a confused smiley "(Ôo)'.
