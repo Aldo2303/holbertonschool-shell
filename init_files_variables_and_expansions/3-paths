@@ -1,0 +1,2 @@
+#!/bin/bash
+fins $PATH -maxdepth 1 -type d | wc -l
