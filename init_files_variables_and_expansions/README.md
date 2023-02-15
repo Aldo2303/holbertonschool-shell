@@ -1,1 +1,3 @@
-Write a script that encodes and decodes text using the rot13 encryption. Assume ASCII.
+Write a script that prints a number with two decimal places, followed by a new line.
+
+The number will be stored in the environment variable NUM.
